@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+   background-color: springgreen;
+    width: 100%;
+    height: 700px;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+canvas{
+    box-shadow: 40px 50px 20px rgb(21, 21, 24);
+    border: 14px double gold;
+}
+#pontuacao{
+    position: absolute;
+    top: 3vw;
+    left: 5vw;
+    width: 20vw;
+    height: 10vw;
+    background-color: brown;
+    text-align: center;
+    display: none;
+    border: 8px dashed gold;
+    background-color: black;
+    color: springgreen;
+    font-size: 26px;
+
+}
+p{
+    margin: auto;
+    padding: 4px;
+    width: 80%;
+    border: 2px dotted gold;
+}
+#historico{
+    position: absolute;
+    top: 3vw;
+    left: 77%;
+    width: 20vw;
+    height: 20vw;
+    background-color: brown;
+    text-align: center;
+    display: none;
+    border: 8px dashed gold;
+    background-color: black;
+    color: springgreen;
+    font-size: 26px;
+
+}
+#images{
+    position: absolute;
+    bottom: 20%;
+    left: 5%;
+    width: 300px;
+}
