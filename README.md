@@ -10,9 +10,9 @@ Esse Projeto foi criado através de um desafio que eu mesmo propus para treinar 
   
 ## Tecnologias utilizadas:
 
-   HTML
-   CSS
-   JAVASCRIPT
+   *HTML
+   *CSS
+   *JAVASCRIPT
 
 ## link do Projetinho 
 
