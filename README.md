@@ -10,4 +10,4 @@ Esse Projeto foi criado através de um desafio que eu mesmo propus para treinar 
 
 ## link do Projetinho 
 
- ![Se quiser da uma jogadinha]{https://aba665.github.io/Jogo_da_cobrinha/} 
+ ![Se quiser da uma jogadinha](https://aba665.github.io/Jogo_da_cobrinha/)
